@@ -11,8 +11,8 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
 * Python
 
 ### ⚙️ Estudos:
-* [Atividade 1 - questão 1](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/atividade1-questao1.py)
-* [Tipos Primitivos](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/aula02-tipos-primitivos.py)
+* [Atividade 1 - Questão 1](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/atividade1-questao1.py)
+* [Atividade 1 - Questão 2](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/atividade1-questao2.py)
     * [Atividade 01](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/aula03-atividade01.py)
     * [Atividade 02](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/aula03-atividade02.py)
 * [Condicionais](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Pensamento-Computacional/blob/main/aula04-condicionais.py)
