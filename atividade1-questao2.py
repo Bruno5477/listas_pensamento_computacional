@@ -5,4 +5,4 @@ pizza = 12.00
 pudim = 10.75
 
 soma = coca + pizza + pudim
-print("A soma dos 3 produto é igual a", soma)
+print("A soma dos 3 produto é igual à", soma)
