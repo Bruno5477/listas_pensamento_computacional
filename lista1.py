@@ -30,7 +30,7 @@ print("A variável peso é do tipo", type(peso))
 nome = input("Digite o nome do produto:")
 preco = float(input("Digite o preço do produto:"))
 acres_10 = round(preco * 1.1,2)
-print("O preço do(a)", nome, "com um acrésimo de 10% é de R$",acres_10)
+print("O preço do(a)", nome, "com um acréscimo de 10% é de R$",acres_10)
 
 #8) Crie um programa que calcule quantos anos, faltam para você completar 100 anos de idade.
 
