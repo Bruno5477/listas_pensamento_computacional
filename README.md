@@ -22,10 +22,4 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
 * [Simulado - P1 (Turma A)](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/P1/simulado-p1.ipynb)
 
 
-<div align="center">
-    <h2>Autor</h2>
-    <a href="https://github.com/Bruno5477" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/41876952?v=4" alt="Profile Pic" width="150" style="border-radius: 50%"/>
-        <h3>Bruno de Oliveira</h3>
-    </a>
-</div>
+
