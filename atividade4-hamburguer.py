@@ -7,8 +7,8 @@ normal = 10
 picanha = 15
 artesanal = 20
 
-preco_queijo = 2
-preco_bacon = 3
+preco_queijo = 1.5
+preco_bacon = 2
 preco_ovo = 1
 
 print('Bem vindo!!! Selecione qual Hamburger você vai querer...')
