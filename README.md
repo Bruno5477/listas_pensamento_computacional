@@ -21,6 +21,9 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
 * [Atividade 1 - Questão 8](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/atividade1-questao8.py)
 * [Atividade 2 - Questão 1](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/atividade2-questao1.py)
 * [Atividade 2 - Questão 2](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/atividade2-questao2.py)
+* [Atividade 2 - Questão 3](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/atividade2-questao3.py)
+* [Atividade 3](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/atividade2-questao1.py)
+* [Atividade 4](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/atividade2-questao1.py)
 * [Simulado - P1 (Turma A)](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/P1/simulado-p1.ipynb)
 
 
