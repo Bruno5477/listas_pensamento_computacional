@@ -34,6 +34,8 @@ elif media >= 3 and media < 7:
             print(f'Parabéns sua nota na segunda época foi {se}, você está aprovado!')
         else:
             print(f'Sua nota na segunda época foi {se}, você está reprovado.')
+    else:
+        print(f'Sua nota foi {p3}, você está reprovado.')
 else:
     print(f'Sua nota foi {media}, você não foi aprovado')
     
