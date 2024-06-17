@@ -4,7 +4,7 @@
     <h2>Sobre</h2>
 </div>
 
-Atividades e exercícios de Python e Pensamento Computacional.<br>
+Atividades e exercícios em Python da disciplina Pensamento Computacional.<br>
 Universidade de Vassouras, curso de Engenharia de Software.<br>
 
 ### ⚙️ Tecnologias:
