@@ -11,6 +11,7 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
 * Python
 
 ### ⚙️ Estudos:
+* [lista 1](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/lista1.py)
 * [Atividade 1 - Questão 1](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/atividade1-questao1.py)
 * [Atividade 1 - Questão 2](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/atividade1-questao2.py)
 * [Atividade 1 - Questão 3](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/atividade1-questao3.py)
@@ -25,8 +26,16 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
 * [Atividade 3](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/atividade-08-04.py)
 * [Atividade 4](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/atividade4-hamburguer.py)
 * [Prova 1](https://github.com/Bruno5477/listas_pensamento_computacional/tree/main/P1)
-* [Atividade 5](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/atividade_20-05.ipynb)
-    * [Atividade 5](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/atividade_20-05.ipynb)
+* [Atividade 5](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/atividade_13-05.ipynb)
+* [Atividade 6](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/atividade_20-05.ipynb)
+* [Atividade 7 - Questão 1](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/Atividade0306-atividade1.py)
+* [Atividade 7 - Questão 2](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/Atividade0306-atividade2.py)
+* [Atividade 7 - Questão 3](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/Atividade0306-atividade3.py)
+* [Atividade 7 - Questão 4](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/Atividade0306-atividade4.py)
+* [Atividade 7 - Questão 5](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/Atividade0306-atividade5.py)
+* [Atividade 7 - Questão 6](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/Atividade0306-atividade6.py)
+* [Atividade extra 1](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/atividade_extra1.py)
+* [Prova 2](https://github.com/Bruno5477/listas_pensamento_computacional/tree/main/P2)
   
 
 
