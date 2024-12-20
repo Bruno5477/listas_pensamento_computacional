@@ -36,6 +36,8 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
 * [Atividade 7 - Questão 6](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/Atividade0306-atividade6.py)
 * [Atividade extra 1](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/atividade_extra1.py)
 * [Prova 2](https://github.com/Bruno5477/listas_pensamento_computacional/tree/main/P2)
+    * [P2](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/P2/bruno_p2.ipynb)
+    * [Simulado P2](https://github.com/Bruno5477/listas_pensamento_computacional/blob/main/P2/simulado_p2.ipynb)
   
 
 
